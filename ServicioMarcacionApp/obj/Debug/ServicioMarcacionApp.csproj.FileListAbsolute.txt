@@ -1,0 +1,9 @@
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\bin\Debug\ServicioMarcacionApp.exe.config
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\bin\Debug\ServicioMarcacionApp.exe
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\bin\Debug\ServicioMarcacionApp.pdb
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\obj\Debug\ServicioMarcacionApp.csprojAssemblyReference.cache
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\obj\Debug\ServicioMarcacionApp.ProjectInstaller.resources
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\obj\Debug\ServicioMarcacionApp.csproj.GenerateResource.cache
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\obj\Debug\ServicioMarcacionApp.csproj.CoreCompileInputs.cache
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\obj\Debug\ServicioMarcacionApp.exe
+E:\Proyectos\Proyectos .Net\ServicioMarcacionApp\ServicioMarcacionApp\obj\Debug\ServicioMarcacionApp.pdb
